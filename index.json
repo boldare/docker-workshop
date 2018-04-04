@@ -1,7 +1,7 @@
 {
     "icon": "fa-node",
     "title": "Scenario with Editor UI",
-    "description": "Katacoda Scenario Example",
+    "description": "first demo",
     "authenticated": false,
     "details": {
         "steps": [
