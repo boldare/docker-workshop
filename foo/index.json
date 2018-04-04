@@ -2,6 +2,8 @@
     "icon": "fa-java",
     "title": "foo bar",
     "description": "foo demo",
+    "difficulty": "beginner",
+    "time": "10-15 minutes",
     "authenticated": false,
     "details": {
         "steps": [
@@ -10,7 +12,12 @@
                 "title": "Hello World",
                 "text": "step1.md"
             }
-        ]
+        ],
+        "intro": {
+            "text": "intro.md",
+            "courseData": "courseBase.sh",
+            "credits": ""
+        }
     },
     "files": [
         "app.py",
