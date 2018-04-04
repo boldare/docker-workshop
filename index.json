@@ -1,7 +1,7 @@
 {
-    "icon": "fa-node",
-    "title": "Scenario with Editor UI",
-    "description": "first demo",
+    "icon": "fa-java",
+    "title": "foo bar",
+    "description": "foo demo",
     "authenticated": false,
     "details": {
         "steps": [
