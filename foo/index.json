@@ -20,7 +20,7 @@
         "assets": {
           "client": [
             {
-              "file": "app.py",
+              "file": "foo/app.py",
               "target": "~/tutorial"
             }
           ]
