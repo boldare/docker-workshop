@@ -22,6 +22,15 @@
         "app.py",
         "Dockerfile"
     ],
+
+    "assets": {
+      "client": [
+        {
+          "file": "app.py",
+          "target": "~/tutorial"
+        }
+      ]
+    },
     "environment": {
         "hidefinish": true,
         "uilayout": "editor-terminal",
