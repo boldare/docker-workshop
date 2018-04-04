@@ -27,7 +27,6 @@
         }
     },
     "files": [
-        "app.py",
         "Dockerfile"
     ],
     "environment": {
