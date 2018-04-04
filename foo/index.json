@@ -6,6 +6,7 @@
     "details": {
         "steps": [
             {
+                "courseData": "prerequisites.sh",
                 "title": "Hello World",
                 "text": "step1.md"
             }
